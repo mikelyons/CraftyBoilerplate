@@ -1,3 +1,8 @@
+Chicken Chaser
+My own game based on CraftyBoilerplate
+-ML
+
+
 What we will use in CraftyBoilerplate:
 
 * Crafty (latest release)

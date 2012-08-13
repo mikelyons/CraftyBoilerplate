@@ -11,7 +11,7 @@ window.onload = function() {
 	};
     
 	//start Crafty
-	Crafty.init(800, 600);
+	Crafty.init();
 	Crafty.canvas.init();
 	
 	require([
