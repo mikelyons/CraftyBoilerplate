@@ -12,4 +12,8 @@ Crafty.scene("main", function() {
 		infc['info'] = new Info();
 	});
 
+	Crafty.e("2D, DOM, Color, Collision, Platform")
+		.color("red")
+		.attr({ w: 300, h: 30, y: 500 })
+
 });
