@@ -23,8 +23,8 @@ Sprites = Backbone.Model.extend({
             },
             'chicken' : {
                 'file' : 'web/images/chickenwalk.png',
-                'tile' : 30,
-                'tileh' : 38,
+                'tile' : 29,
+                'tileh' : 37,
                 'elements' : {
                     'chicken' : [0, 0]
                 }
